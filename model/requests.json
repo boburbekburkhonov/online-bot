@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "courses": "C#",
+        "name": "Boburbek Burkhanov",
+        "phone": "+998908801900"
+    },
+    {
+        "id": 2,
+        "courses": "PHP",
+        "name": "Boburbek Burkhanov",
+        "phone": "+998908801900"
+    },
+    {
+        "id": 3,
+        "courses": "C++",
+        "name": "Boburbek Burkhanov",
+        "phone": "+998908801900"
+    },
+    {
+        "id": 4,
+        "courses": "C++",
+        "name": "Boburbek Burkhanov",
+        "phone": "+998908801900"
+    },
+    {
+        "id": 5,
+        "courses": "C++",
+        "name": "Boburbek Burkhanov",
+        "phone": "+998908801900"
+    },
+    {
+        "id": 6,
+        "courses": "PHP",
+        "name": "Boburbek Burkhanov",
+        "phone": "+998908801900"
+    },
+    {
+        "id": 7,
+        "courses": "PHP",
+        "name": "Boburbek Burkhanov",
+        "phone": "+998908801900"
+    },
+    {
+        "id": 8,
+        "courses": "C++",
+        "name": "Boburbek Burkhanov",
+        "phone": "+998908801900"
+    },
+    {
+        "id": 9,
+        "courses": "C++",
+        "name": "Boburbek Burkhanov",
+        "phone": "+998908801900"
+    },
+    {
+        "id": 10,
+        "courses": "PHP",
+        "name": "Boburbek Burkhanov",
+        "phone": "+998908801900"
+    }
+]

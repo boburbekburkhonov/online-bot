@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "name":"PHP",
+    "price":"1 000 000",
+    "desc": "Eski tillardan"
+  },
+  {
+    "id":2,
+    "name":"C++",
+    "price":"800 000",
+    "desc": "Yaxshi tillardan"
+  },
+  {
+    "id":3,
+    "name":"C#",
+    "price":"900 000",
+    "desc": "Davlat tillardan"
+  },
+  {
+    "id":4,
+    "name":"Python",
+    "price":"1 200 000",
+    "desc": "Zamonaviy tillardan"
+  }
+]
